@@ -8,6 +8,8 @@ namespace Grupo02
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Adios mundo");
+            Console.WriteLine("Conflicto");
+
         }
     }
 }

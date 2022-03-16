@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diego\\source\\repos\\Grupo02\\Grupo02\\Grupo02.csproj": {}
+    "C:\\Users\\mirgu\\source\\repos\\Grupo02\\Grupo02\\Grupo02\\Grupo02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diego\\source\\repos\\Grupo02\\Grupo02\\Grupo02.csproj": {
+    "C:\\Users\\mirgu\\source\\repos\\Grupo02\\Grupo02\\Grupo02\\Grupo02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\source\\repos\\Grupo02\\Grupo02\\Grupo02.csproj",
+        "projectUniqueName": "C:\\Users\\mirgu\\source\\repos\\Grupo02\\Grupo02\\Grupo02\\Grupo02.csproj",
         "projectName": "Grupo02",
-        "projectPath": "C:\\Users\\diego\\source\\repos\\Grupo02\\Grupo02\\Grupo02.csproj",
-        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\source\\repos\\Grupo02\\Grupo02\\obj\\",
+        "projectPath": "C:\\Users\\mirgu\\source\\repos\\Grupo02\\Grupo02\\Grupo02\\Grupo02.csproj",
+        "packagesPath": "C:\\Users\\mirgu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mirgu\\source\\repos\\Grupo02\\Grupo02\\Grupo02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mirgu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
