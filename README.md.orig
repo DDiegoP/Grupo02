@@ -1,5 +1,10 @@
 #Resumen de la práctica
 
 Habituarnos al ciclo de trabajo con Git
-Nueva funcionalidad añadida: customización de los colores del juego.   
+README
+<<<<<<< HEAD
 Nueva funcionalidad para rotar piezas con el raton
+=======
+
+Nueva funcionalidad añadida: customización de los colores del juego.   
+>>>>>>> b52ccec20f203307ae43c56c46eb3fac98d9e7f8
