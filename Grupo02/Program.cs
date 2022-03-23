@@ -7,7 +7,7 @@ namespace Grupo02
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Adios mundo");
+            Console.WriteLine("Adios");
             Console.WriteLine("Conflicto");
 
         }
